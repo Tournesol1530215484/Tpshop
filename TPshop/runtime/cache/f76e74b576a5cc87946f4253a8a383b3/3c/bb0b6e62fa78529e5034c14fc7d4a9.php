@@ -1,0 +1,4 @@
+<?php
+//000000000001
+ exit();?>
+[{"goods_id":13,"goods_name":"\u3010\u5957\u9910\u8d60\u8033\u673a\u3011HUAWEI\/\u534e\u4e3a \u7545\u4eab8 Plus \u5168\u9762\u5c4f\u624b\u673a","shop_price":"1699.00"},{"goods_id":25,"goods_name":"\u76f4\u964d200\u5143\u25c6vivo Y85\u5168\u9762\u5c4f\u624b\u673a vivoy85\u624b\u673a y75 y97\u5b98\u65b9\u65d7\u8230\u5e97","shop_price":"1598.00"},{"goods_id":79,"goods_name":"\u3010\u65b0\u54c1\u4e0a\u5e02\u3011Samsung\/\u4e09\u661f Galaxy S9 SM-G9600\/DS \u5168\u7f51\u901a 4G\u624b\u673a","shop_price":"2999.00"},{"goods_id":145,"goods_name":"Huawei\/\u534e\u4e3a nova 2s 4G\u5168\u9762\u5c4f\u5b98\u65b9\u6b63\u54c1\u624b\u673a \u62a2\u5148\u52a0\u8d2d \u62a2\u5929\u732b\u5238\u51cf120\u6700\u9ad8\u76f4\u964d300","shop_price":"2599.00"}]
